@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shinyu-Mao
+- 👋 Hi, I’m @Xinyu-Mao
 - 👀 I’m interested in DataScience, Federated Learning, and Linguistics!
 - 🌱 I’m currently learning Master of DS @UQ
 
