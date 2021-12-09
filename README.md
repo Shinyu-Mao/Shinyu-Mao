@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xinyu-Mao
 - 👀 I’m interested in DataScience, Federated Learning, and Linguistics!
-- 🌱 I’m currently learning Master of DS @UQ
+- 🌱 I have graduated from UQ with a Master's degree in Data Science
 
 
 <!---
