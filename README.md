@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xinyu-Mao
+- 👋 Hi, I’m Xinyu-Mao, a PhD student @UQ
 - 👀 I’m interested in DataScience, Federated Learning, and Linguistics!
 - 🌱 I have graduated from UQ with a Master's degree in Data Science
 
