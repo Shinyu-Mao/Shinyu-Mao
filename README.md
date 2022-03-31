@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xinyu-Mao, a PhD student @UQ
-- 👀 I’m interested in DataScience, Federated Learning, and Linguistics!
-- 🌱 I have graduated from UQ with a Master's degree in Data Science
-
+- 👀 I’m interested in DataScience, Federated Learning, Information Retrieval, NLP, and Linguistics!
+- 🌱 I have graduated from Master of Data Science @UQ in Dec 2021.
+ 
 
 <!---
 Shinyu-Mao/Shinyu-Mao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
